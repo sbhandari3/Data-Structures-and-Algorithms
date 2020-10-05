@@ -1,0 +1,113 @@
+/*********************************************************************************
+* Suneet Bhandari, sugbhand
+* 2020 Spring CSE101 PA6
+* README
+* README for pa6
+*********************************************************************************/
+
+For pa5, we are submitting 6 files in total Order.c, Dictionary.c Dictionary.h, README, Makefile, and DictionaryTest.c.
+
+This assignment makes a dictionary in the form of a red black tree. It goes through the tree and alphabetizes the input file using a key comparison.
+
+For example,
+if the file contains
+pokery
+timbrologist
+cabbalist
+varietally
+geothermic
+unenquiring
+theatricalises
+pliosaurs
+teleses
+phaenology
+reapportionment
+mcguigan
+snowfall
+reinfuse
+psammitic
+punctulated
+imprinters
+menagaries
+gooseries
+jemmied
+
+the output would be
+******************************************************
+PRE-ORDER:
+******************************************************
+pokery
+mcguigan
+geothermic
+cabbalist
+imprinters
+gooseries
+jemmied
+phaenology
+menagaries
+pliosaurs
+theatricalises
+snowfall
+reapportionment
+psammitic
+punctulated
+reinfuse
+teleses
+unenquiring
+timbrologist
+varietally
+
+
+******************************************************
+IN-ORDER:
+******************************************************
+cabbalist
+geothermic
+gooseries
+imprinters
+jemmied
+mcguigan
+menagaries
+phaenology
+pliosaurs
+pokery
+psammitic
+punctulated
+reapportionment
+reinfuse
+snowfall
+teleses
+theatricalises
+timbrologist
+unenquiring
+varietally
+
+
+******************************************************
+POST-ORDER:
+******************************************************
+cabbalist
+gooseries
+jemmied
+imprinters
+geothermic
+menagaries
+pliosaurs
+phaenology
+mcguigan
+punctulated
+psammitic
+reinfuse
+reapportionment
+teleses
+snowfall
+timbrologist
+varietally
+unenquiring
+theatricalises
+pokery
+
+
+
+This is implemented with an ADT fucntionality.
+

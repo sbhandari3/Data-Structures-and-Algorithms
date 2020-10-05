@@ -1,0 +1,37 @@
+/*********************************************************************************
+* Suneet Bhandari, sugbhand
+* 2020 Spring CSE101 PA2
+* README
+* README for pa2
+*********************************************************************************/
+In pa2, we were supposed to implement the BigInteger ADT which took a big integer and either added subtracted or multiplied for an answer. 
+
+For example, if the input was
+10
+-0041085449
+10
+7402779357
+
+the output would be
+
+-41085449
+
+7402779357
+
+7361693908
+
+-7443864806
+
+0
+
+-14928815061
+
+-304146513730276293
+
+1688014119531601
+
+54801142208425333449
+
+355708308072979699484782930346148190803050903225721
+
+This can be seen by testing all of the BigInteger functions and queues

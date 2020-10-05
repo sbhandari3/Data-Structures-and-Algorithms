@@ -1,0 +1,10 @@
+/*********************************************************************************
+* Suneet Bhandari, sugbhand
+* 2020 Spring CSE101 PA7
+* README
+*********************************************************************************/
+
+This is my readme. The files that I am turning in are Makfile,
+List.h,List.cpp, ListTest.cpp, and Shuffle.cpp.
+
+The goal of this assignment is to creat a Linked List in C++ and use the client Shuffle to shuffle the rest of the List.
