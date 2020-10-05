@@ -1,0 +1,58 @@
+/*********************************************************************************
+* Suneet Bhandari, sugbhand
+* 2020 Spring CSE101 PA1
+* README
+* README for PA1
+*********************************************************************************/
+
+For pa1, we are submitting 6 files in total Lex.c, List.c, List.h, README, Makefile, and ListClient.c.
+
+This assignment takes a file which hold a certain amount of string and alphabetizes it.
+
+For example,
+if the file contains
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+
+the output will be, 
+
+eight
+eighteen
+eleven
+fifteen
+five
+four
+fourteen
+nine
+nineteen
+one
+seven
+seventeen
+six
+sixteen
+ten
+thirteen
+three
+twelve
+twenty
+two
+
+This is implemented with an ADT fucntionality.
